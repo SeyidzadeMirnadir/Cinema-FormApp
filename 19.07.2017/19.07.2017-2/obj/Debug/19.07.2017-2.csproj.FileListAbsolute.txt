@@ -1,0 +1,9 @@
+C:\Users\P501\Documents\Visual Studio 2017\Projects\P302\19.07.2017-2\19.07.2017-2\bin\Debug\19.07.2017-2.exe.config
+C:\Users\P501\Documents\Visual Studio 2017\Projects\P302\19.07.2017-2\19.07.2017-2\bin\Debug\19.07.2017-2.exe
+C:\Users\P501\Documents\Visual Studio 2017\Projects\P302\19.07.2017-2\19.07.2017-2\bin\Debug\19.07.2017-2.pdb
+C:\Users\P501\Documents\Visual Studio 2017\Projects\P302\19.07.2017-2\19.07.2017-2\obj\Debug\19.07.2017-2.csprojResolveAssemblyReference.cache
+C:\Users\P501\Documents\Visual Studio 2017\Projects\P302\19.07.2017-2\19.07.2017-2\obj\Debug\_19._07._2017_2.MyForm.resources
+C:\Users\P501\Documents\Visual Studio 2017\Projects\P302\19.07.2017-2\19.07.2017-2\obj\Debug\_19._07._2017_2.Properties.Resources.resources
+C:\Users\P501\Documents\Visual Studio 2017\Projects\P302\19.07.2017-2\19.07.2017-2\obj\Debug\19.07.2017-2.csproj.GenerateResource.Cache
+C:\Users\P501\Documents\Visual Studio 2017\Projects\P302\19.07.2017-2\19.07.2017-2\obj\Debug\19.07.2017-2.exe
+C:\Users\P501\Documents\Visual Studio 2017\Projects\P302\19.07.2017-2\19.07.2017-2\obj\Debug\19.07.2017-2.pdb

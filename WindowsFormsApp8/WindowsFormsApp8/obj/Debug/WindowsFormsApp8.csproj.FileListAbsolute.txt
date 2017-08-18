@@ -1,0 +1,9 @@
+c:\users\p501\documents\visual studio 2017\Projects\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+c:\users\p501\documents\visual studio 2017\Projects\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+c:\users\p501\documents\visual studio 2017\Projects\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+c:\users\p501\documents\visual studio 2017\Projects\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csprojResolveAssemblyReference.cache
+c:\users\p501\documents\visual studio 2017\Projects\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+c:\users\p501\documents\visual studio 2017\Projects\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+c:\users\p501\documents\visual studio 2017\Projects\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.Cache
+c:\users\p501\documents\visual studio 2017\Projects\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+c:\users\p501\documents\visual studio 2017\Projects\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
